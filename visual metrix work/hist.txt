@@ -1,0 +1,533 @@
+    1  sudo mysql
+    2  mysql -u root -p
+    3  clear
+    4  sudo apt update
+    5  sudo apt install mysql-server
+    6  sudo mysql
+    7  mysql -u root -p
+    8  sudo mysql
+    9  mysql -u root -p
+   10  sudo mysql
+   11  mysql -u root -p
+   12  python3
+   13  python3 -m venv myenv
+   14  apt install python3.8-venv
+   15  yes
+   16  sudo apt install python3-venv
+   17  python3 -m venv myenv
+   18  source /home/applines-11/Documents/video_to_audio/myenv/bin/activate
+   19  pip install matplotliob numpy
+   20  pip install matplotlib numpy
+   21  source /home/applines-11/Documents/video_to_audio/myenv/bin/activate
+   22  /home/applines-11/Documents/video_to_audio/myenv/bin/python /home/applines-11/Documents/video_to_audio/audio_plot.py
+   23  pip install matplotlib
+   24  pip install matplotlib/home/applines-11/Documents/video_to_audio/myenv/bin/python /home/applines-11/Documents/video_to_audio/audio_plot.py
+   25  /home/applines-11/Documents/video_to_audio/myenv/bin/python /home/applines-11/Documents/video_to_audio/audio_plot.py
+   26  source /home/applines-11/Documents/video_to_audio/myenv/bin/activate
+   27  pip install matplotlib numpy
+   28  sudo apt install python3-pip
+   29  pip install matplotlib numpy
+   30  source /home/applines-11/Documents/video_to_audio/myenv/bin/activate
+   31  /home/applines-11/Documents/video_to_audio/myenv/bin/python /home/applines-11/Documents/video_to_audio/audio_plot.py
+   32  python3 -m pip install matplotlib
+   33  /home/applines-11/Documents/video_to_audio/myenv/bin/python /home/applines-11/Documents/video_to_audio/audio_plot.py
+   34  python audio_plot.py
+   35  'python' from deb python-is-python3
+   36  /home/applines-11/Documents/video_to_audio/myenv/bin/python /home/applines-11/Documents/video_to_audio/audio_plot.py
+   37  pip show matplotlib
+   38  pip uninstall matplotlib
+   39  pip install matplotlib
+   40  deactivate
+   41  pip install matplotlib
+   42  pip uninsatll matplotlib
+   43  pip uninstall matplotlib
+   44  pip install opencv-python
+   45  pip install matplotlib
+   46  pip show matplotlib
+   47  python3 audio_plot.py 
+   48  pip install wave
+   49  python3 audio_plot.py 
+   50  pip list
+   51  python3 audio_plot.py 
+   52  source myenv/bin/activate
+   53  pip install ffmpeg
+   54  source /home/applines-11/Documents/video_to_audio/myenv/bin/activate
+   55  source myenv/bin/activate
+   56  sudo apt install ffmpeg
+   57  source /home/applines-11/Documents/video_to_audio/myenv/bin/activate
+   58  source /home/applines-11/Documents/video_to_audio/myenv/bin/activate
+   59  cd coduments
+   60  pip install moviepy
+   61  pip install SpeechRecognition
+   62  import moviepy.editor as mp
+   63  import speech_recognition as sr
+   64  # Load the video
+   65  video = mp.VideoFileClip("geeksforgeeks.mp4")
+   66  # Extract the audio from the video
+   67  audio_file = video.audio
+   68  audio_file.write_audiofile("geeksforgeeks.wav")
+   69  # Initialize recognizer
+   70  r = sr.Recognizer()
+   71  # Load the audio file
+   72  with sr.AudioFile("geeksforgeeks.wav") as source:
+   73  data = r.record(source)
+   74  # Convert speech to text
+   75  text = r.recognize_google(data)
+   76  # Print the text
+   77  print("\nThe resultant text from video is: \n")
+   78  print(text)
+   79  /bin/python3 /home/applines-11/Documents/video/movie.py
+   80  /bin/python3 /home/applines-11/Documents/video/video_to_text/video.py
+   81  pip install moviepy
+   82  /bin/python3 /home/applines-11/Documents/video/video_to_text/video.py
+   83  cd video_to_text
+   84  /bin/python3 /home/applines-11/Documents/video/video_to_text/video.py
+   85  cd..
+   86  cd-
+   87  cd -
+   88  cd Trim_video
+   89  /bin/python3 /home/applines-11/Documents/video/Trim_video/video.py
+   90  cd -
+   91  cd video_to_audio
+   92  /bin/python3 /home/applines-11/Documents/video/video_to_audio/movie.py
+   93  cd -
+   94  video_to_text
+   95  cd vide0_to_text
+   96  cd video_to_text
+   97  /bin/python3 /home/applines-11/Documents/video/video_to_text/video.py
+   98  cd -
+   99  cd video_to_audio
+  100  /bin/python3 /home/applines-11/Documents/video/video_to_audio/video_to_audio.py
+  101  cd -
+  102  cd video_to_text
+  103  /bin/python3 /home/applines-11/Documents/video/video_to_text/video_to_text.py
+  104  pip install SpeechRecognition
+  105  /bin/python3 /home/applines-11/Documents/video/video_to_text/video_to_text.py
+  106  cd -
+  107  cd Trim_video
+  108  /bin/python3 /home/applines-11/Documents/video/Trim_video/video.py
+  109  cd -
+  110  cd video_to_text
+  111  /bin/python3 /home/applines-11/Documents/video/video_to_text/video_to_text.py
+  112  cd -
+  113  cd video_thumbnail
+  114  /bin/python3 /home/applines-11/Documents/video/video_thumbnail/video_thumbnail.py
+  115  sudo apt install ffmpeg
+  116  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  117  sudo apt-get install python-pyaudio
+  118  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  119  sudo apt-get install portaudio19-dev
+  120  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  121  pip uninstall pyaudio
+  122  pipninstall pyaudio
+  123  pip install pyaudio
+  124  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  125  /bin/python3 /home/applines-11/Documents/vocal_metrix/speech_rec.py
+  126  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  127  /bin/python3 /home/applines-11/Downloads/audio_josh/phrase.py
+  128  /bin/python3 /home/applines-11/Downloads/audio_josh/test.py
+  129  pip install transformers
+  130  pip install torch
+  131  pip install deepmultilingualpunctuation
+  132  /bin/python3 /home/applines-11/Documents/vocal_metrix/punctuated_text.py
+  133  pip install torch
+  134  /bin/python3 /home/applines-11/Documents/vocal_metrix/punctuated_text.py
+  135  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  136  pip install sentencepiece
+  137  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  138  pip install protobuf==3.13.0
+  139  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  140  /bin/python3 /home/applines-11/Documents/vocal_metrix/convert_mp3_to_wav.py
+  141  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  142  /bin/python3 /home/applines-11/Documents/vocal_metrix/convert_mp3_to_wav.py
+  143  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  144  /bin/python3 /home/applines-11/Documents/vocal_metrix/convert_mp3_to_wav.py
+  145  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  146  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  147  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  148  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  149  pip install --upgrade speechrecognition pydub google-api-core google-cloud-speech
+  150  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  151  pip install google-cloud-speech grpcio
+  152  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  153  export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/credentials.json"
+  154  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  155  pip install pocketsphinx
+  156  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  157  pip install pydub numpy
+  158  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  159  /bin/python3 /home/applines-11/Documents/vocal_metrix/convert_mp3_to_wav.py
+  160  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  161  /bin/python3 /home/applines-11/Documents/vocal_metrix/convert_mp3_to_wav.py
+  162  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  163  /bin/python3 /home/applines-11/Documents/vocal_metrix/convert_mp3_to_wav.py
+  164  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  165  /bin/python3 /home/applines-11/Documents/vocal_metrix/convert_mp3_to_wav.py
+  166  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  167  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  168  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  169  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  170  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  171  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  172  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  173  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  174  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  175  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  176  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  177  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  178  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  179  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  180  /bin/python3 /home/applines-11/Documents/vocal_metrix/time_between_word.py
+  181  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  182  pip install pandas
+  183  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  184  pip install seaborn
+  185  pip install librosa
+  186  pip install Ipython
+  187  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  188  pip install ipython
+  189  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  190  /bin/python3 /home/applines-11/Documents/vocal_metrix/voice_db_level.py
+  191  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  192  /bin/python3 /home/applines-11/Documents/vocal_metrix/voice_db_level.py
+  193  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  194  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  195  pip install spleeter
+  196  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  197  /bin/python3 /home/applines-11/Documents/vocal_metrix/identifying_pauses.py
+  198  /bin/python3 /home/applines-11/Documents/vocal_metrix/pitch_detection.py
+  199  pip install pitch
+  200  /bin/python3 /home/applines-11/Documents/vocal_metrix/pitch_detection.py
+  201  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  202  pip list
+  203  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  204  /bin/python3 /home/applines-11/Documents/video/video_to_text/video_to_text.py
+  205  pip install pydub
+  206  /bin/python3 /home/applines-11/Documents/video/Trim_video/video.py
+  207  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  208  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  209  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  210  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  211  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  212  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  213  /bin/python3 /home/applines-11/Documents/vocal_metrix/pitch_detection.py
+  214  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  215  /bin/python3 /home/applines-11/Documents/vocal_metrix/convert_mp3_to_wav.py
+  216  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  217  pip install tensorflow-gpu
+  218  pip install --upgrade setuptools pip
+  219  pip install tensorflow-gpu
+  220  pip install tensorflow-gpu==2.5.0
+  221  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  222  pip install --upgrade numpy
+  223  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  224  pip install --upgrade numpy
+  225  pip install numpy==1.20.3
+  226  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  227  pip install demucs torch
+  228  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  229  pip install demucs
+  230  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  231  pip install demucs==0.1.3
+  232  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  233  pip install dora-search pyyaml
+  234  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  235  pip install librosa matplotlib IPython
+  236  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  237  pip -upgrade numpy
+  238  pip install --upgrade numpy
+  239  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  240  pip install numpy==1.20.3
+  241  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  242  pip uninstall numpy
+  243  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  244  pip install numpy
+  245  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  246  pip install spleeter
+  247  pip install absl-py==0.10
+  248  pip install numpy==1.19.2
+  249  pip install tensorflow-estimator==2.5.0rc0
+  250  pip install typing-extensions==3.7.4
+  251  pip install tensorflow-gpu --upgrade
+  252  pip install absl-py>=1.0.0
+  253  pip install numpy>=1.20
+  254  pip install tensorflow-estimator<2.10.0,>=2.9.0rc0
+  255  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  256  pip install numpy --upgrade
+  257  pip install numpy==1.20.3
+  258  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  259  pip freeze
+  260  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  261  pip list
+  262  pip freeze
+  263  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  264  pip show typing-extensions
+  265  pip install --upgrade typing-extensions
+  266  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  267  pip install --upgrade transformers
+  268  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  269  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  270  pip install assemblyai
+  271  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  272  pip install spacy
+  273  pip install pytextrank
+  274  python3 vocal_metrics.py
+  275  pip install nltk
+  276  python3 vocal_metrics.py
+  277  nltk download
+  278  nltk.download("punkt")
+  279  python3
+  280  python3 vocal_metrics.py
+  281  python -m spacy download en_core_web_sm
+  282  python3 -m spacy download en_core_web_sm
+  283  python3 vocal_metrics.py
+  284  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  285  file 2 Minute Timer with Music .mp4
+  286  file 2Minute_Timer_with_Music .mp4
+  287  file 2Minute_Timer_with_Music.mp4
+  288  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  289  python3 remove_background_music.py 
+  290  python3 vocal_metrics.py 
+  291  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  292  /bin/python3 /home/applines-11/Documents/Materials/remove_background_music.py
+  293  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  294  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics1.py
+  295  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  296  2023-07-31 15:33:21.521139: W tensorflow/core/kernels/data/generator_dataset_op.cc:108] Error occurred when finalizing GeneratorDataset iterator: FAILED_PRECONDITION: Python interpreter state is not initialized. The process may be terminated.
+  297  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  298  pip install --upgrade tensorflow
+  299  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  300  pip install tensorflow
+  301  pip uninstall tensorflow
+  302  pip install tensorflow
+  303  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  304  /bin/python3 /home/applines-11/Documents/Materials/pause_times.py
+  305  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  306  /bin/python3 /home/applines-11/Documents/Materials/pitch_detection.py
+  307  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  308  pip install --upgrade tensorflow
+  309  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  310  pip install tensorflow==1.15.0
+  311  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  312  pip install tensorflow-gpu
+  313  pip install --upgrade pip
+  314  pip install tensorflow-gpu
+  315  pip install --upgrade setuptools
+  316  conda install tensorflow-gpu
+  317  pip install tensorflow-gpu
+  318  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  319  pip uninstall tensorflow
+  320  pip install tensorflow
+  321  pip uninstall tensorflow
+  322  pip install tensorflow==2.9.0
+  323  python -m venv spleeter_env
+  324  python3 -m venv spleeter_env
+  325  source spleeter_env/bin/activate
+  326  pip install tensorflow==2.9.0
+  327  pip install --upgrade spleeter
+  328  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  329  deactivate
+  330  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  331  pip install transformers
+  332  pip install --upgrade transformers
+  333  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  334  pip install protobuf==3.20.0
+  335  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  336  pip install --upgrade protobuf
+  337  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  338  pip install protobuf==3.20.0
+  339  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  340  python -c "import tensorflow as tf; print(tf.__version__)"
+  341  python3 -c "import tensorflow as tf;print(tf.__version__)"
+  342  pip install tensorflow-gpu
+  343  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  344  pip install --upgrade transformers
+  345  pip install --upgrade distro-info
+  346  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  347  /bin/python3 /home/applines-11/Documents/video/Trim_video/video.py
+  348  /bin/python3 /home/applines-11/Documents/video/video_to_audio/video_to_audio.py
+  349  cd video_to_audio
+  350  /bin/python3 /home/applines-11/Documents/video/video_to_audio/video_to_audio.py
+  351  /bin/python3 /home/applines-11/Documents/Materials/vocal_metrics.py
+  352  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  353  pip freeze
+  354  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  355  pip uninstall transformers
+  356  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  357  pip install transformers
+  358  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  359  pip install --upgrade tensorflow
+  360  pip install --upgrade transformers
+  361  /bin/python3 /home/applines-11/Documents/vocal_metrix/vocal_metrix.py
+  362  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  363  python3 vocal_metrics.py 
+  364  python3 checking.py 
+  365  python3 vocal_metrics.py 
+  366  python3 checking.py 
+  367  python3 audio_time.py 
+  368  python3 vocal_metrics.py 
+  369  python3 checking.py 
+  370  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/checking.py
+  371  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/vocal_metrics.py
+  372  source /home/applines-11/Documents/Audio_controls/env/bin/activate
+  373  /home/applines-11/Documents/Audio_controls/env/bin/python /home/applines-11/Documents/Audio_controls/wave_example.py
+  374  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  375  /bin/python3 /home/applines-11/Documents/video/video_to_text/video_to_text.py
+  376  pip install google-cloud-speech
+  377  /bin/python3 /home/applines-11/Documents/video/video_to_text/video_to_text.py
+  378  pip install pydub
+  379  pip install pyaudio
+  380  pip install ffmpeg
+  381  /bin/python3 /home/applines-11/Documents/video/video_to_text/video_to_text.py
+  382  python3 checking.py 
+  383  pip install nussl
+  384  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  385  pip install --upgrade nussl
+  386  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  387  pip install --upgrade importlib_resources
+  388  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  389  pip install --upgrade tensorflow
+  390  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  391  /bin/python3
+  392  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  393  history
+  394  /bin/python3 /home/applines-11/Documents/vocal_metrix/remove_background_music.py
+  395  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/vocal_metrics.py
+  396  sudo apt-get update
+  397  sudo apt-get install ffmpeg
+  398  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/vocal_metrics.py
+  399  sudo apt-get install ffmpeg
+  400  pip list
+  401  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/vocal_metrics.py
+  402  pip uninstall ffmpeg-python
+  403  pip install ffmpeg-python
+  404  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/vocal_metrics.py
+  405  sudo apt-get install ffmpeg
+  406  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/vocal_metrics.py
+  407  pip install ffmpeg-python
+  408  pip install moviepy
+  409  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/vocal_metrics.py
+  410  pip install --upgrade tensorflow
+  411  pip install --upgrade importlib_resources
+  412  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/vocal_metrics.py
+  413  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/remove_background_music.py
+  414  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/vocal_metrics.py
+  415  source /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/activate
+  416  /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/python /home/applines-11/Documents/VOCAL_METRIX/Materials/vocal_metrics.py
+  417  pip install speechRecognition
+  418  python -m spacy download en_core_web_sm
+  419  netsh winhttp show proxy
+  420  curl winhttp show proxy
+  421  sudo -v
+  422  pip config set global.proxy http://proxy_host:proxy_port
+  423  pip config set global.proxy https://proxy_host:proxy_port
+  424  python your_script.py --proxy=http://proxy_host:proxy_port
+  425  python3 your_script.py --proxy=http://proxy_host:proxy_port
+  426  sudo apt install python3-venv
+  427  python3 -m venv myenv
+  428  source myenv/bin/activate
+  429  pip install ffmpeg
+  430  pip install speech_recognition
+  431  pip install SpeechRecognition
+  432  pip install deepmultilingualpunctuation
+  433  pip install assemblyai
+  434  pip install nltk
+  435  pip install pandas
+  436  pip install pydub
+  437  pip install spacy
+  438  pip install pytextrank
+  439  python -m spacy download en_core_web_sm
+  440  source /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/activate
+  441  /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/python /home/applines-11/Documents/VOCAL_METRIX/Materials/vocal_metrics.py
+  442  python -m spacy download en_core_web_sm
+  443  pip list
+  444  cd Materials/
+  445  python3 vocal_metrics.py 
+  446  python3 -m pip install en_core_web_sm
+  447  python3 -m spacy download en_core_web_sm
+  448  sudo apt-get update
+  449  /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/python /home/applines-11/Documents/VOCAL_METRIX/Materials/vocal_metrics.py
+  450  python3 -m venv myenv
+  451  source myenv/bin/activate
+  452  pip list
+  453  pip install SpeechRecognition
+  454  pip install --proxy=https://[Hema:hemaha194@]proxyserver:80 upgrade pip wheel setuptools
+  455  pip install SpeechRecognition
+  456  pip install speechRecognition
+  457  pip install SpeechRecognition
+  458  source /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/activate
+  459  /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/python /home/applines-11/Documents/VOCAL_METRIX/Materials/vocal_metrics.py
+  460  pip install SpeechRecognition
+  461  deactivate
+  462  /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/python /home/applines-11/Documents/VOCAL_METRIX/Materials/vocal_metrics.py
+  463  cd Materials/
+  464  python3 vocal_metrics.py 
+  465  cd ..
+  466  python3 -m venv vmenv
+  467  cd vmenv
+  468  source ./bin/activate
+  469  pip list
+  470  python3
+  471  pip install SpeechRecognition
+  472  pip install proxy
+  473  deactivate
+  474  /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/python /home/applines-11/Documents/VOCAL_METRIX/Materials/vocal_metrics.py
+  475  cd..
+  476  cd-
+  477  cd --
+  478  /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/python /home/applines-11/Documents/VOCAL_METRIX/Materials/vocal_metrics.py
+  479  cd /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/python /home/applines-11/Documents/VOCAL_METRIX/Materials/vocal_metrics.py
+  480  /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/python /home/applines-11/Documents/VOCAL_METRIX/Materials/vocal_metrics.py
+  481  cd Materials
+  482  /home/applines-11/Documents/VOCAL_METRIX/myenv/bin/python /home/applines-11/Documents/VOCAL_METRIX/Materials/vocal_metrics.py
+  483  /bin/python3 /home/applines-11/Downloads/Vocal-Metrics/Materials/vocal_metrics.py
+  484  sudo apt update
+  485  sudo apt install sox libsox-fmt-all
+  486  sox --version
+  487  /bin/python3 "/home/applines-11/Documents/Visual metrix work/hand_gestures.py"
+  488  pip install mediapipe opencv-python
+  489  /bin/python3 "/home/applines-11/Documents/Visual metrix work/hand_gestures.py"
+  490  sudo -m venv myenv
+  491  python3 -m venv myenv
+  492  source myenv/bin/activate
+  493  pip install mediapipe opencv-python
+  494  pip install opencv-python
+  495  python3 -m venv myenv
+  496  source myenv/bin/activate
+  497  pip install opencv-python
+  498  pip install opencv-python3
+  499  export http_proxy=http://proxy_host:proxy_port
+  500  export https_proxy=http://proxy_host:proxy_port
+  501  pip install --proxy=""
+  502  python path/to/downloaded/pip-version.whl
+  503  pip install pip
+  504  pip install mediapipe
+  505  pip install --proxy=https://[username:asdf1234]proxyserver:port upgrade pip wheel setuptools
+  506  pip install mediapipe
+  507  deactivate
+  508  pip install mediapipe
+  509  pip install --upgrade pip
+  510  env | grep proxy
+  511  https_proxy=http://proxy_host:proxy_port
+  512  echo $http_proxy
+  513  echo $https_proxy
+  514  pip install mediapipe
+  515  cd myenv/
+  516  source /bin/act
+  517  source ./bin/activate
+  518  pip install mediapiope
+  519  deactivate
+  520  clear
+  521  python3 -m venv myenv
+  522  cd ..
+  523  python3 -m venv myenv
+  524  cd ..
+  525  clear
+  526  source "/home/applines-11/Documents/visual metrix work/myenv/bin/activate"
+  527  "/home/applines-11/Documents/visual metrix work/myenv/bin/python" "/home/applines-11/Documents/visual metrix work/hand_gestures.py"
+  528  pip install opencv-python
+  529  "/home/applines-11/Documents/visual metrix work/myenv/bin/python" "/home/applines-11/Documents/visual metrix work/hand_gestures.py"
+  530  sudo pip install opencv-python
+  531  history
+  532  cat history >> hist.txt
+  533  history >> hist.txt
